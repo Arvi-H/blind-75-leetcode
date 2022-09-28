@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// Check to see if there are duplicates in a given vector
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
